@@ -1,2 +1,0 @@
-ADD_LIBRARY(alice SHARED alice.cc)
-DEAL_II_SETUP_TARGET(alice)
